@@ -1,7 +1,0 @@
-Hello world
-this this second line
-<<<<<<< HEAD
-Ye third line hai
-=======
-this is third line
->>>>>>> 29d899e1a3ce14858b04cb40b1e43b9ed3899b4d
